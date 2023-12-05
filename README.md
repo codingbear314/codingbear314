@@ -8,4 +8,4 @@ codingbear314/codingbear314 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={js314})](https://solved.ac/{js314})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=js314)](https://solved.ac/js314)
